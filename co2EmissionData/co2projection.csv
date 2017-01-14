@@ -1,5 +1,145 @@
- Sector and Source,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,2040,2041,2042,2043,2044,2045,2046,2047,2048,2049,2050,
-Residential ,"1,041",977,993,990,995,986,961,932,918,909,901,890,879,870,861,852,849,846,844,843,843,842,840,838,836,834,832,831,829,827,825,824,822,820,817,814,
-Commercial,917,878,879,870,876,873,854,829,818,811,804,795,785,778,771,763,762,762,763,764,766,767,769,770,771,773,776,779,783,787,790,795,800,805,809,814,
-Industrial,"1,438","1,436","1,446","1,485","1,522","1,541","1,549","1,554","1,566","1,572","1,570","1,565","1,549","1,539","1,531","1,525","1,521","1,520","1,521","1,527","1,532","1,537","1,542","1,546","1,552","1,555","1,558","1,560","1,565","1,570","1,575","1,582","1,587","1,591","1,597","1,607",
-Transportation,"1,864","1,866","1,865","1,877","1,879","1,872","1,866","1,854","1,838","1,818","1,794","1,771","1,752","1,737","1,724","1,711","1,700","1,691","1,687","1,686","1,687","1,690","1,694","1,702","1,710","1,717","1,726","1,737","1,751","1,764","1,777","1,791","1,804","1,817","1,833","1,849",
+key,value,date
+Residential ,1041,2015
+Commercial,917,2015
+Industrial,1438,2015
+Transportation,1864,2015
+Residential ,977,2016
+Commercial,878,2016
+Industrial,1436,2016
+Transportation,1866,2016
+Residential ,993,2017
+Commercial,879,2017
+Industrial,1446,2017
+Transportation,1865,2017
+Residential ,990,2018
+Commercial,870,2018
+Industrial,1485,2018
+Transportation,1877,2018
+Residential ,995,2019
+Commercial,876,2019
+Industrial,1522,2019
+Transportation,1879,2019
+Residential ,986,2020
+Commercial,873,2020
+Industrial,1541,2020
+Transportation,1872,2020
+Residential ,961,2021
+Commercial,854,2021
+Industrial,1549,2021
+Transportation,1866,2021
+Residential ,932,2022
+Commercial,829,2022
+Industrial,1554,2022
+Transportation,1854,2022
+Residential ,918,2023
+Commercial,818,2023
+Industrial,1566,2023
+Transportation,1838,2023
+Residential ,909,2024
+Commercial,811,2024
+Industrial,1572,2024
+Transportation,1818,2024
+Residential ,901,2025
+Commercial,804,2025
+Industrial,1570,2025
+Transportation,1794,2025
+Residential ,890,2026
+Commercial,795,2026
+Industrial,1565,2026
+Transportation,1771,2026
+Residential ,879,2027
+Commercial,785,2027
+Industrial,1549,2027
+Transportation,1752,2027
+Residential ,870,2028
+Commercial,778,2028
+Industrial,1539,2028
+Transportation,1737,2028
+Residential ,861,2029
+Commercial,771,2029
+Industrial,1531,2029
+Transportation,1724,2029
+Residential ,852,2030
+Commercial,763,2030
+Industrial,1525,2030
+Transportation,1711,2030
+Residential ,849,2031
+Commercial,762,2031
+Industrial,1521,2031
+Transportation,1700,2031
+Residential ,846,2032
+Commercial,762,2032
+Industrial,1520,2032
+Transportation,1691,2032
+Residential ,844,2033
+Commercial,763,2033
+Industrial,1521,2033
+Transportation,1687,2033
+Residential ,843,2034
+Commercial,764,2034
+Industrial,1527,2034
+Transportation,1686,2034
+Residential ,843,2035
+Commercial,766,2035
+Industrial,1532,2035
+Transportation,1687,2035
+Residential ,842,2036
+Commercial,767,2036
+Industrial,1537,2036
+Transportation,1690,2036
+Residential ,840,2037
+Commercial,769,2037
+Industrial,1542,2037
+Transportation,1694,2037
+Residential ,838,2038
+Commercial,770,2038
+Industrial,1546,2038
+Transportation,1702,2038
+Residential ,836,2039
+Commercial,771,2039
+Industrial,1552,2039
+Transportation,1710,2039
+Residential ,834,2040
+Commercial,773,2040
+Industrial,1555,2040
+Transportation,1717,2040
+Residential ,832,2041
+Commercial,776,2041
+Industrial,1558,2041
+Transportation,1726,2041
+Residential ,831,2042
+Commercial,779,2042
+Industrial,1560,2042
+Transportation,1737,2042
+Residential ,829,2043
+Commercial,783,2043
+Industrial,1565,2043
+Transportation,1751,2043
+Residential ,827,2044
+Commercial,787,2044
+Industrial,1570,2044
+Transportation,1764,2044
+Residential ,825,2045
+Commercial,790,2045
+Industrial,1575,2045
+Transportation,1777,2045
+Residential ,824,2046
+Commercial,795,2046
+Industrial,1582,2046
+Transportation,1791,2046
+Residential ,822,2047
+Commercial,800,2047
+Industrial,1587,2047
+Transportation,1804,2047
+Residential ,820,2048
+Commercial,805,2048
+Industrial,1591,2048
+Transportation,1817,2048
+Residential ,817,2049
+Commercial,809,2049
+Industrial,1597,2049
+Transportation,1833,2049
+Residential ,814,2050
+Commercial,814,2050
+Industrial,1607,2050
+Transportation,1849,2050
