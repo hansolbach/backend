@@ -12,9 +12,9 @@ var margin = {top: 19.5, right: 19.5, bottom: 19.5, left: 39.5},
     height = 500 - margin.top - margin.bottom;
 
 // Various scales. These domains make assumptions of data, naturally.
-var xScale = d3.scale.log().domain([1e4, 1e5]).range([0, width]),
-    yScale = d3.scale.linear().domain([350, 550]).range([height, 0]),
-    radiusScale = d3.scale.sqrt().domain([0, 5e8]).range([0, 40]),
+var xScale = d3.scale.linear().domain([2e4, 5e4]).range([0, width]),
+    yScale = d3.scale.linear().domain([300, 550]).range([height, 0]),
+    radiusScale = d3.scale.sqrt().domain([0, 5e8]).range([0, 70]),
     colorScale = d3.scale.category10();
 
 // The x & y axes.
@@ -55,7 +55,7 @@ svg.append("text")
     .attr("y", 6)
     .attr("dy", ".75em")
     .attr("transform", "rotate(-90)")
-    .text("CO2 Emission (Matric Ton) per year");
+    .text("CO2 Emission (matric ton) per year");
 
 // Add the year label; the value is set on transition.
 var label = svg.append("text")
